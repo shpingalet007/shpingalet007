@@ -21,7 +21,7 @@
 - Aspiring polyglot, always eager to learn new languages.
 - Passionate about photography, capturing moments in life.
 
-### My hobby projects
+### 🚁 My hobby projects
 - [**🎯 Element-Selector**](https://github.com/shpingalet007/element-selector)
   
   An NPM module to provide developers with their own element inspector. Can be useful in chrome extensions.
