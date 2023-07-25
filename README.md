@@ -36,7 +36,7 @@
 
 - **🔐 FlexTLS** (private for now)
 
-  FlexTLS is a powerful JavaScript library that empowers developers with the ability to generate TLS (Transport Layer Security) packets in a granular and flexible manner. With FlexTLS, you can construct TLS packets byte by byte, granting you complete control over the encryption process. This versatility allows you to use the generated packets in various scenarios, such as creating custom proxies or ensuring secure communication between clients and servers.
+  FlexTLS is a powerful JavaScript library that empowers developers with the ability to generate TLS (Transport Layer Security) packets in a granular and flexible manner. With FlexTLS, you can construct TLS packets byte by byte, granting you complete control over the encryption process. This versatility allows you to use the generated packets in various scenarios, such as creating custom proxies or ensuring secure communication between clients and servers. Can be used for both Node.js and browsers.
 
 - There are more, but hidden for now 🙃
 
