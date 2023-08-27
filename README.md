@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 - 🌱 Started my path in web development at the age of 12, now with an impressive 14 years of experience in the industry.
-- 💻 Proficient in Node.JS, JavaScript, TypeScript, and MERN stack.
+- 💻 Proficient in Node.JS, JavaScript, TypeScript, and MERN/MEVN stacks.
 - 🛠️ Skilled in building dynamic web applications.
 - 🕸️ Experienced in protocol engineering, e.g. TLS, HTTP/S and SOCKS4/5.
 
