@@ -9,7 +9,7 @@
 - 🕸️ Experienced in protocol engineering, e.g. TLS, HTTP/S and SOCKS4/5.
 
 ### 🔭 Current Projects
-- Working on implementing peering video support based on PeerJS at Bastyon.
+- Working on innovative network security toolkit for Node.js applications. Still in development. When it would be ready for release, I'll publish it in open source.
 
 ### 🎯 Goals
 - Constantly learning and pushing the boundaries of web technology.
